@@ -1,0 +1,9 @@
+{
+	"name": "ADF-coderepository",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "357085b6-92b5-4b40-a6b7-baaf52656375",
+		"tenantId": "b3c0ba0d-0346-458a-bd4f-5d7790690a88"
+	}
+}
